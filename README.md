@@ -1,2 +1,3 @@
-# exercice_recommender
-Exercice about recommendation systems
+# Recommender
+
+This repo contains code to complete an exercice about recommendation systems.
