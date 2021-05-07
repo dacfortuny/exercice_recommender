@@ -1,0 +1,9 @@
+# Hiden folders
+.idea/
+.ipynb_checkpoints
+
+# Data folder
+movie_dataset/
+
+# Notebooks
+*.ipynb
