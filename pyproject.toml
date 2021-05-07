@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "exercice_recommender"
+version = "0.1.0"
+description = ""
+authors = ["Didac Fortuny <dacfortuny@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+pandas = "^1.2"
+scipy = "^1.6"
+sklearn = "*"
+matplotlib = "*"
+seaborn = "*"
+
+
+[tool.poetry.dev-dependencies]
+jupyterlab = "^3.0"
+jupytext = "^1.11"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
